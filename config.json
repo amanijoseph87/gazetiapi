@@ -402,13 +402,6 @@
         "arguments":[
           "https://www.filmbaze.com/wp-json/wp/v2/"
         ]
-      },
-      {
-        "title":"Filamu",
-        "provider":"wordpress",
-        "arguments":[
-          "https://ontvse.com/wp-json/wp/v2/"
-        ]
       }
     ]
   },
