@@ -343,7 +343,7 @@
         "title":"Categories",
         "provider":"overview",
         "arguments":[
-          "https://firebasestorage.googleapis.com/v0/b/gazeti-c3ab4.appspot.com/o/overview.json?alt=media&token=1220d40d-068c-4b97-bae2-62a490391ba8"
+          "https://amanijoseph87.github.io/gazetiapi/overview.json"
         ]
       }
     ]
