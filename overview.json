@@ -1,0 +1,155 @@
+[
+  {
+    "title":"CNN",
+    "provider":"stream",
+    "image": "https://pmcvariety.files.wordpress.com/2013/10/cnn-logo.jpg",
+    "arguments":[
+      "http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"Aljazeera",
+    "provider":"stream",
+    "image":"https://www.aljazeera.com/mritems/Images/2014/10/26/beefc69a4b0d4b6aac13938ee98f0103_18.jpg",
+    "arguments":[
+      "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8"
+    ]
+  },
+  {
+    "title":"BBC News",
+    "provider":"stream",
+    "image":"https://www.zealouswebdesign.co.uk/wp-content/uploads/2015/03/zealous-web-design-blyth-northumberland-blog-post-bbc-news-responsive-modern-design.jpg",
+    "arguments":[
+      "https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"ABC News",
+    "provider":"stream",
+    "image":"https://tvnewsroom.org/wp-content/uploads/2013/01/ABC-News-Logo.jpg",
+    "arguments":[
+      "https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u"
+    ]
+  },
+  {
+    "title":"CBS News",
+    "provider":"stream",
+    "image":"https://cbsnews1.cbsistatic.com/hub/i/r/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/thumbnail/1200x630/15dcb72c6fdec4125306ed9638345480/cbsnews-1600x900.jpg",
+    "arguments":[
+      "https://www.cbsnews.com/common/video/dai_prod.m3u8"
+    ]
+  },
+  {
+    "title":"CNBC",
+    "provider":"stream",
+    "image":"https://yt3.ggpht.com/a/AGF-l7-UndRcTcpspuv_JwOtMgflB6zNoO_5iXPMmw=s900-mo-c-c0xffffffff-rj-k-no",
+    "arguments":[
+      "https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"Citizen TV",
+    "provider":"stream",
+    "image":"https://www.kucomradesforum.com/wp-content/uploads/2017/03/1280-720_Citizen-Television.jpg",
+    "arguments":[
+      "https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8"
+    ]
+  },
+  {
+    "title":"NHK World",
+    "provider":"stream",
+    "image":"https://i.ytimg.com/vi/dy0ENoaQVms/maxresdefault.jpg",
+    "arguments":[
+      "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"Discovery",
+    "provider":"stream",
+    "image":"https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506916796_discoverychannel-artcard.jpg",
+    "arguments":[
+      "http://80.80.160.168/live/8/live.m3u8"
+    ]
+  },
+  {
+    "title":"Discovery Sciance",
+    "provider":"stream",
+    "image":"https://presentationarchive.com/discoveryscience2017/space-c.jpg",
+    "arguments":[
+      "https://1.ip2stream.icu/live/disney_channel_hd/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"Disney Junior",
+    "provider":"stream",
+    "image":"https://yt3.ggpht.com/a/AGF-l7-37Ys85SXW7-1YphYteZ4304A5R8MUOpLHbA=s900-mo-c-c0xffffffff-rj-k-no",
+    "arguments":[
+      "https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a"
+    ]
+  },
+  {
+    "title":"ESPN",
+    "provider":"stream",
+    "image":"https://yt3.ggpht.com/a/AGF-l7_sFD-R_7HD4eVRrtFp4flC2vUKSv9pf3wX_g=s900-c-k-c0xffffffff-no-rj-mo",
+    "arguments":[
+      "http://80.80.160.168/live/6/live.m3u8"
+    ]
+  },
+  {
+    "title":"BT Sport",
+    "provider":"stream",
+    "image":"https://store-images.s-microsoft.com/image/apps.4133.13510798887418728.8f694c91-7e89-4b4b-8bd8-f39848ed2780.54c3bda6-027f-4e02-8f44-b6c488aec946",
+    "arguments":[
+      "http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"Trace Africa",
+    "provider":"stream",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trace_Africa_logo.webp/512px-Trace_Africa_logo.webp.png",
+    "arguments":[
+      "https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"Trace Mziki",
+    "provider":"stream",
+    "image":"https://scontent.fdar4-1.fna.fbcdn.net/v/t1.0-9/13934986_1069167039840735_2571285193628402322_n.jpg?_nc_cat=111&_nc_eui2=AeFuQDixAxuv6zaXIwZEb28U7P9PhisXPEP74KJhkT18I22jwrjoog0-O1MWy9_SwoB4mp9k0FcDRmtRgTvjK83oVqJol-Yhgj1q22mnesM294iV8i7NQx1IIgJioMpu3tY&_nc_oc=AQnwbVnbozIyZrb-sZ6bWbkepou3ffoVrpiz5e8HJOr0CwYINKAwm5afB3tsx3fG5CI&_nc_ht=scontent.fdar4-1.fna&oh=d9368dc6eb63c18411ac6e79204038ce&oe=5DA59F47",
+    "arguments":[
+      "https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"Trace Naija",
+    "provider":"stream",
+    "image":"https://scontent.fdar4-1.fna.fbcdn.net/v/t1.0-9/15589492_1517815981568658_8077526944332574122_n.jpg?_nc_cat=111&_nc_eui2=AeHN-ezhOoG50bnyPUZDP3ImWx8IsM00wlwoGSZHcrJuUXsSBRzeEobYvWPWF_t9TKgve-dcHD6tlzeBuzXxuMbIh8Aur2D1llhpRKGXWdVEknK1C_g-ZEL1BZ22X91eAqQ&_nc_oc=AQnXF3OzDQxPW2DHg4ac6AKDNbZxxVXM9HFBR9ClD6le8SDSCHhOPyDviy-x24ss1eY&_nc_ht=scontent.fdar4-1.fna&oh=b735ee48715b8bb22c4ca5a5c30573b7&oe=5DB34C8D",
+    "arguments":[
+      "https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"Trace Gospel",
+    "provider":"stream",
+    "image":"https://www.megazap.fr/photo/art/grande/10094308-16428194.jpg",
+    "arguments":[
+      "https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"Trace Kitoko",
+    "provider":"stream",
+    "image":"http://agence-supernova.com/wp-content/uploads/trace-kitoko.jpg",
+    "arguments":[
+      "https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8"
+    ]
+  },
+  {
+    "title":"TMZ",
+    "provider":"stream",
+    "image":"https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png",
+    "arguments":[
+      "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8"
+    ]
+  }
+
+]
