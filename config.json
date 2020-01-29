@@ -1,0 +1,517 @@
+[
+  {
+    "title":"Kitaifa",
+    "drawable":"ic_localnews",
+    "submenu":"",
+    "tabs":[
+      {
+        "title":"Millard Ayo",
+        "provider":"wordpress",
+        "arguments":[
+          "http://millardayo.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Dar 24",
+        "provider":"wordpress",
+        "arguments":[
+          "http://dar24.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Ayo TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCg_GB9WS6YKHilQZIJEC4kg",
+          "channel"
+        ]
+      },
+      {
+        "title":"ITV",
+        "provider":"rss",
+        "arguments":[
+          "https://www.itv.co.tz/rss.xml"
+        ]
+      },
+      {
+        "title":"Zanzibar Leo",
+        "provider":"wordpress",
+        "arguments":[
+          "http://www.zanzibarleo.co.tz/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Bingwa",
+        "provider":"wordpress",
+        "arguments":[
+          "http://www.bingwa.co.tz/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Muungwana",
+        "provider":"rss",
+        "arguments":[
+          "http://www.muungwana.co.tz/atom.xml"
+        ]
+      },
+      {
+        "title":"Global TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCCzlwMi5I8ievuVCikUoQIA",
+          "channel"
+        ]
+      },
+      {
+        "title":"Wasafi Media",
+        "provider":"youtube",
+        "arguments":[
+          "UCJ__AKbzt6oJSGLZ7G790Zw",
+          "channel"
+        ]
+      },
+      {
+        "title":"Bongo 5",
+        "provider":"youtube",
+        "arguments":[
+          "UCrJ5CGMLyFFLnKtVNpgxtrQ",
+          "channel"
+        ]
+      },
+      {
+        "title":"ITV Habari",
+        "provider":"youtube",
+        "arguments":[
+          "UCRmReUqNqc-GSZeD48QKjhQ",
+          "channel"
+        ]
+      },
+      {
+        "title":"Michuzi",
+        "provider":"rss",
+        "arguments":[
+          "https://issamichuzi.blogspot.com/atom.xml"
+        ]
+      },
+      {
+        "title":"Global Publisher",
+        "provider":"rss",
+        "arguments":[
+          "https://globalpublishers.co.tz/feed"
+        ]
+      },
+      {
+        "title":"EFM",
+        "provider":"wordpress",
+        "arguments":[
+          "http://efm.co.tz/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Zanzibar 24",
+        "provider":"wordpress",
+        "arguments":[
+          "http://zanzibar24.co.tz/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Mwana Halisi",
+        "provider":"wordpress",
+        "arguments":[
+          "http://mwanahalisionline.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Mtanzania",
+        "provider":"rss",
+        "arguments":[
+          "http://mtanzania.co.tz/feed/"
+        ]
+      },
+      {
+        "title":"Malunge",
+        "provider":"rss",
+        "arguments":[
+          "https://www.malunde.com/atom.xml"
+        ]
+      },
+      {
+        "title":"ZanziNews",
+        "provider":"rss",
+        "arguments":[
+          "http://www.zanzinews.com/atom.xml"
+        ]
+      },
+      {
+        "title":"Mpekuzi Huru",
+        "provider":"rss",
+        "arguments":[
+          "http://www.mpekuzihuru.com/atom.xml"
+        ]
+      },
+      {
+        "title":"Udaku Special",
+        "provider":"rss",
+        "arguments":[
+          "https://www.udakuspecially.com/atom.xml"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Kimataifa",
+    "drawable":"ic_worldwide",
+    "tabs":[
+      {
+        "title":"VOA Swahili",
+        "provider":"rss",
+        "arguments":[
+          "https://www.voaswahili.com/api/z-_ktevrgq"
+        ]
+      },
+      {
+        "title":"KTN Kenya",
+        "provider":"youtube",
+        "arguments":[
+          "UCKVsdeoHExltrWMuK0hOWmg",
+          "channel"
+        ]
+      },
+      {
+        "title":"RFI Swahili",
+        "provider":"rss",
+        "arguments":[
+          "http://sw.rfi.fr/general/rss"
+        ]
+      },
+      {
+        "title":"BBC Swahili",
+        "provider":"youtube",
+        "arguments":[
+          "UCoerKKIKIMlDYaVFSTlsWGw",
+          "channel"
+        ]
+      },
+      {
+        "title":"Habari za UN",
+        "provider":"rss",
+        "arguments":[
+          "https://news.un.org/feed/subscribe/sw/news/all/rss.xml"
+        ]
+      },
+      {
+        "title":"DW Swahili",
+        "provider":"youtube",
+        "arguments":[
+          "UCA_Fjr6R2D8BCPENte67Paw",
+          "channel"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Teknolojia",
+    "drawable":"ic_computer",
+    "tabs":[
+
+      {
+        "title":"Video",
+        "provider":"instagram",
+        "arguments":[
+          "17841403050936343"
+        ]
+      },
+      {
+        "title":"Makala",
+        "provider":"facebook",
+        "arguments":[
+          "1224166537611792"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Idhaa ya Kiswahili",
+    "drawable":"ic_antenna",
+    "tabs":[
+
+      {
+        "title":"BBC Swahili",
+        "provider":"radio",
+        "arguments":[
+          "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-swaha_backup"
+        ]
+      },
+      {
+        "title":"RFI Swahili",
+        "provider":"radio",
+        "arguments":[
+          "http://live02.rfi.fr/rfienswahili-64.mp3"
+        ]
+      },
+      {
+        "title":"VOA Swahili",
+        "provider":"radio",
+        "arguments":[
+          "http://voa-39.ng.akacast.akamaistream.net/7/434/322051/v1/ibb.akacast.akamaistream.net/voa-39"
+        ]
+      },
+      {
+        "title":"NHK Japan",
+        "provider":"rss",
+        "arguments":[
+          "https://www3.nhk.or.jp/rj/podcast/rss/swahili.xml"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Radio",
+    "drawable":"ic_radio",
+    "tabs":[
+      {
+        "title":"Clouds FM",
+        "provider":"radio",
+        "arguments":[
+          "http://eu6.fastcast4u.com:5306/stream.m3u/"
+        ]
+      },
+      {
+        "title":"EA Radio",
+        "provider":"radio",
+        "arguments":[
+          "http://www.ophanim.net:8270/stream.m3u/"
+        ]
+      },
+      {
+        "title":"E FM",
+        "provider":"radio",
+        "arguments":[
+          "http://107.182.231.73:7127/efm.m3u"
+        ]
+      },
+      {
+        "title":"Radio One",
+        "provider":"radio",
+        "arguments":[
+          "http://78.129.232.226:8085/stream.m3u/"
+        ]
+      },
+      {
+        "title":"Choice FM",
+        "provider":"radio",
+        "arguments":[
+          "http://51.255.235.165:5362/stream.m3u/"
+        ]
+      },
+      {
+        "title":"Abood FM",
+        "provider":"radio",
+        "arguments":[
+          "http://38.107.243.99:8020/stream?.wma"
+        ]
+      },
+      {
+        "title":"Planet FM",
+        "provider":"radio",
+        "arguments":[
+          "http://eu3.radioboss.fm:8088/stream"
+        ]
+      },
+      {
+        "title":"A FM",
+        "provider":"radio",
+        "arguments":[
+          "http://87.117.205.22:9000/stream"
+        ]
+      },
+      {
+        "title":"Storm FM",
+        "provider":"radio",
+        "arguments":[
+          "http://78.129.159.25:8100/stream"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Televisheni",
+    "drawable":"ic_television",
+    "submenu":"Burudani",
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "https://firebasestorage.googleapis.com/v0/b/gazeti-c3ab4.appspot.com/o/overview.json?alt=media&token=1220d40d-068c-4b97-bae2-62a490391ba8"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Muziki",
+    "drawable":"ic_music",
+    "submenu":"",
+    "tabs":[
+      {
+        "title":"Yinga Media",
+        "provider":"wordpress",
+        "arguments":[
+          "https://yingamedia.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"DJ Mwanga",
+        "provider":"wordpress",
+        "arguments":[
+          "https://djmwanga.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Tabelltz",
+        "provider":"wordpress",
+        "arguments":[
+          "https://tabelltz.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Filamu",
+    "drawable":"ic_filamu",
+    "submenu":"",
+    "tabs":[
+      {
+        "title":"Bongo Movie",
+        "provider":"wordpress",
+        "arguments":[
+          "http://www.swahiliwood.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Zilizo Tafsiriwa",
+        "provider":"youtube",
+        "arguments":[
+          "UCzRqaECizm_3zYkT5nR5dzw",
+          "channel"
+        ]
+      },
+      {
+        "title":"Zilizo Tafsiriwa",
+        "provider":"youtube",
+        "arguments":[
+          "UCjYLnLtv2lxIRCcp2ZSbl8Q",
+          "channel"
+        ]
+      },
+      {
+        "title":"Trailer Mpya",
+        "provider":"youtube",
+        "arguments":[
+          "UCi8e0iOVk1fEOogdfu4YgfA",
+          "channel"
+        ]
+      },
+      {
+        "title":"Download",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.filmbaze.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Filamu",
+        "provider":"wordpress",
+        "arguments":[
+          "https://ontvse.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Ajira",
+    "drawable":"ic_jobs",
+    "submenu":"Maisha",
+    "tabs":[
+      {
+        "title":"Ajira Tanzania",
+        "provider":"rss",
+        "arguments":[
+          "https://www.ajiraleo.com/atom.xml"
+        ]
+      },
+      {
+        "title":"Mabumbe",
+        "provider":"wordpress",
+        "arguments":[
+          "https://mabumbe.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Ajira Zetu",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.ajirazetu.co.tz/wp-json/wp/v2/"
+        ]
+        },
+        {
+          "title":"Ajira Yako",
+          "provider":"rss",
+          "arguments":[
+            "https://www.ajirayako.co.tz/atom.xml"
+          ]
+      }
+    ]
+  },
+  {
+    "title":"Elimu",
+    "drawable":"ic_open_book",
+    "submenu":"",
+    "tabs":[
+      {
+        "title":"Udahili Portal",
+        "provider":"wordpress",
+        "arguments":[
+          "https://udahiliportal.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"Nacte",
+        "provider":"rss",
+        "arguments":[
+          "https://www.nacte.go.tz/index.php/feed/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Tupe Nyota 5",
+    "drawable":"ic_nyota5",
+    "submenu":"App",
+    "tabs":[
+      {
+          "title":"Tupe Nyota 5",
+          "provider":"custom",
+          "arguments":[
+            "com.gazeti.digitalwebbased.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+
+
+  },
+  {
+    "title":"Mpangilio",
+    "drawable":"ic_settings",
+    "submenu":"Mengine",
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.gazeti.digitalwebbased.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
