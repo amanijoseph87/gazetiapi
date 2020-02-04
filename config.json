@@ -17,6 +17,13 @@
         "arguments":[
           "http://dar24.com/wp-json/wp/v2/"
         ]
+        },
+      {
+        "title":"Mwananchi",
+        "provider":"rss",
+        "arguments":[
+          "http://feedenlarger.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.mwananchi.co.tz%2F1596774-2785390-view-asFeed-w4kd5w%2Findex.xml&max=10&links=preserve&exc=&submit=Create+full+text+feed"
+        ]
       },
       {
         "title":"Ayo TV",
