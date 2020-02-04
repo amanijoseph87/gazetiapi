@@ -17,13 +17,6 @@
         "arguments":[
           "http://dar24.com/wp-json/wp/v2/"
         ]
-        },
-      {
-        "title":"Mwananchi",
-        "provider":"rss",
-        "arguments":[
-          "https://www.mwananchi.co.tz/1596774-2785390-view-asFeed-w4kd5w/index.xml"
-        ]
       },
       {
         "title":"Ayo TV",
@@ -133,6 +126,13 @@
         "provider":"rss",
         "arguments":[
           "http://mtanzania.co.tz/feed/"
+        ]
+        },
+      {
+        "title":"Mwananchi",
+        "provider":"rss",
+        "arguments":[
+          "https://www.mwananchi.co.tz/1596774-2785390-view-asFeed-w4kd5w/index.xml"
         ]
       },
       {
