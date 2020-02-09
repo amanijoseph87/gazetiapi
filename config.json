@@ -32,6 +32,13 @@
         "arguments":[
           "https://www.itv.co.tz/rss.xml"
         ]
+        },
+      {
+        "title":"Start TV",
+        "provider":"rss",
+        "arguments":[
+          "http://www.startv.co.tz/startvweb/index.php?format=feed&type=rss"
+        ]
       },
       {
         "title":"Zanzibar Leo",
@@ -174,6 +181,20 @@
         "provider":"rss",
         "arguments":[
           "https://www.voaswahili.com/api/z-_ktevrgq"
+        ]
+        },
+      {
+        "title":"KBC Swahili",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.kbc.co.ke/swahili/wp-json/wp/v2/"
+        ]
+        },
+      {
+        "title":"Radio Jambo",
+        "provider":"wordpress",
+        "arguments":[
+          "https://radiojambo.co.ke/wp-json/wp/v2/"
         ]
       },
       {
