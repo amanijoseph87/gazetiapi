@@ -196,6 +196,13 @@
         "arguments":[
           "https://radiojambo.co.ke/feed/"
         ]
+        },
+      {
+        "title":"Taifa Leo",
+        "provider":"rss",
+        "arguments":[
+          "https://taifaleo.nation.co.ke/?feed=rss2"
+        ]
       },
       {
         "title":"KTN Kenya",
