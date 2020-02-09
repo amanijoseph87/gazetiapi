@@ -189,20 +189,6 @@
         "arguments":[
           "https://www.kbc.co.ke/swahili/feed/"
         ]
-        },
-      {
-        "title":"Radio Jambo",
-        "provider":"rss",
-        "arguments":[
-          "https://radiojambo.co.ke/feed/"
-        ]
-        },
-      {
-        "title":"Taifa Leo",
-        "provider":"rss",
-        "arguments":[
-          "https://taifaleo.nation.co.ke/?feed=rss2"
-        ]
       },
       {
         "title":"KTN Kenya",
@@ -241,6 +227,20 @@
           "UCA_Fjr6R2D8BCPENte67Paw",
           "channel"
         ]
+        },
+      {
+        "title":"Radio Jambo",
+        "provider":"rss",
+        "arguments":[
+          "https://radiojambo.co.ke/feed/"
+        ]
+        },
+      {
+        "title":"Taifa Leo",
+        "provider":"rss",
+        "arguments":[
+          "https://taifaleo.nation.co.ke/?feed=rss2"
+        ]
       }
     ]
   },
@@ -250,17 +250,17 @@
     "tabs":[
 
       {
-        "title":"Video",
-        "provider":"instagram",
-        "arguments":[
-          "17841403050936343"
-        ]
-      },
-      {
         "title":"Makala",
         "provider":"facebook",
         "arguments":[
           "1224166537611792"
+        ]
+      },
+      {
+        "title":"Video",
+        "provider":"instagram",
+        "arguments":[
+          "17841403050936343"
         ]
       }
     ]
