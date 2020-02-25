@@ -6,9 +6,9 @@
     "tabs":[
       {
         "title":"Bongo Leo",
-        "provider":"wordpress",
+        "provider":"rss",
         "arguments":[
-          "http://www.bongoleo.com/wp-json/wp/v2/"
+          "http://www.bongoleo.com/feed"
         ]
       },
       {
