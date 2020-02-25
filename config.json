@@ -5,6 +5,13 @@
     "submenu":"",
     "tabs":[
       {
+        "title":"Bongo Leo",
+        "provider":"wordpress",
+        "arguments":[
+          "http://www.bongoleo.com/wp-json/wp/v2/"
+        ]
+      },
+      {
         "title":"Millard Ayo",
         "provider":"wordpress",
         "arguments":[
