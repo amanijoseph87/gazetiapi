@@ -37,7 +37,7 @@
         "title":"Bongo Leo",
         "provider":"wordpress",
         "arguments":[
-          "http://bongoleo.com/wp-json/wp/v2/"
+          "http://www.bongoleo.com/wp-json/wp/v2/"
         ]
       },
       {
