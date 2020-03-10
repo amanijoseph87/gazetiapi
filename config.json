@@ -35,9 +35,9 @@
       },
       {
         "title":"Bongo Leo",
-        "provider":"wordpress",
+        "provider":"rss",
         "arguments":[
-          "bongoleo.com/wp-json/wp/v2"
+          "http://www.bongoleo.com/feed/"
         ]
       },
       {
