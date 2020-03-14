@@ -189,6 +189,13 @@
         "arguments":[
           "https://www.kbc.co.ke/swahili/feed/"
         ]
+        },
+      {
+        "title":"Pars Today",
+        "provider":"rss",
+        "arguments":[
+          "https://parstoday.com/sw/rss/"
+        ]
       },
       {
         "title":"KTN Kenya",
