@@ -196,6 +196,13 @@
         "arguments":[
           "https://parstoday.com/sw/rss/"
         ]
+        },
+      {
+        "title":"Dharura Live",
+        "provider":"wordpress",
+        "arguments":[
+          "https://emergency-live.com/sw/wp-json/wp/v2/"
+        ]
       },
       {
         "title":"KTN Kenya",
