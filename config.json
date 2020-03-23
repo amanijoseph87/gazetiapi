@@ -417,10 +417,10 @@
         ]
          },
       {
-        "title":"Just Naija",
-        "provider":"rss",
+        "title":"Notjustok",
+        "provider":"wordpress",
         "arguments":[
-          "https://justnaija.com/feed//"
+          "https://notjustok.com/wp-json/wp/v2/"
         ]
       },
       {
