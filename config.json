@@ -415,6 +415,13 @@
         "arguments":[
           "https://djmwanga.com/wp-json/wp/v2/"
         ]
+         },
+      {
+        "title":"Just Naija",
+        "provider":"rss",
+        "arguments":[
+          "https://justnaija.com/feed//"
+        ]
       },
       {
         "title":"Tabelltz",
