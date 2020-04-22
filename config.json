@@ -52,6 +52,13 @@
           "arguments":[
             "http://www.muungwana.co.tz/atom.xml"
           ]
+         },
+        {
+          "title":"Mwanaspoti",
+          "provider":"rss",
+          "arguments":[
+            "https://www.mwanaspoti.co.tz/1763586-1763586-view-asFeed-ftqdng/index.xml"
+          ]
           },
         {
           "title":"Start TV",
