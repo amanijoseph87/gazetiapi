@@ -38,6 +38,13 @@
           "arguments":[
             "http://www.bongoleo.com/feed/"
           ]
+         },
+        {
+          "title":"RSwahili",
+          "provider":"wordpress",
+          "arguments":[
+            "http://rswahili.com/wp-json/wp/v2/"
+          ]
         },
         {
           "title":"Bingwa",
