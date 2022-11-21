@@ -12,10 +12,10 @@
           ]
         },
         {
-          "title":"Dar 24",
-          "provider":"wordpress",
+          "title":"Nyimbo Mpya",
+          "provider":"rss",
           "arguments":[
-            "http://dar24.com/wp-json/wp/v2/"
+            "https://www.nyimbompya.com/rss.xml"
           ]
         },
         {
